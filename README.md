@@ -18,6 +18,10 @@ Fix for iron shovel that can crash the game if you put it in essence transformer
 
 Fix for Highwood Leaves not being opaque if you use fast graphics.
 
+- Client_FrigidLeaves_Fix
+
+Fix for Frigid Leaves not being transparent.
+
 - Client_Leaves_Decay_Fix
 
 Fix for flamewood leaves not decaying.
@@ -40,9 +44,17 @@ Fix for tools efficiency for certain blocks.
 
 ## Server Fixes List
 
+- Server_Entity_Fix
+
+Fix for mobs being transparent in the world.
+
 - Server_EssenceTransformer_Fix
 
 Fix for iron shovel that can crash the game if you put it in essence transformer.
+
+- Server_FrigidLeaves_Fix
+
+Fix for Frigid Leaves not being transparent.
 
 - Server_Leaves_Decay_Fix
 
