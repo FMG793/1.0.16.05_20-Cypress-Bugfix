@@ -6,76 +6,70 @@ Cypress Quality of Life can be found in the "Releases".
 
 ## Client Fixes List
 
-- Client_EssenceProjectile_Fix
+- Fix for Wifi Block missing pixel.
 
-Potential fix for essence (rifle) projectiles that can corrupt the world save.
+- Fix for Hoe not losing durability.
 
-- Client_EssenceTransformer_Fix
+- Fix for Fishing Rod texture being flipped.
 
-Fix for iron shovel that can crash the game if you put it in essence transformer.
+- Fix for Item Names being misleading.
 
-- Client_Fast_Leaves_Fix
+- Fix for 16.04 Texturepack items being invisible.
 
-Fix for Highwood Leaves not being opaque if you use fast graphics.
+- Fix for Frigid Trunk inability to put it on top of eachother and it's hitbox.
 
-- Client_FrigidLeaves_Fix
+- Fix for Fence inability to put it on top of eachother and in suspended state.
 
-Fix for Frigid Leaves not being transparent.
+- Fix for Tea Door and Tea Workbench not being craftable.
 
-- Client_Leaves_Decay_Fix
+- Fix for mc_creat inability to save placeable items in the inventory.
 
-Fix for flamewood leaves not decaying.
+- Fix for Flamewood Log not haing the correct top and bottom texture.
 
-- Client_Modloader_Fix
+- Fix for Essence Cloner reseting Item durability.
 
-Fix for modloader not working propertly.
+- fix for Essence (rifle) Projectiles that can corrupt the world save.
 
-- Client_Mycon_Liquid_Fix
+- Fix for Iron Shovel that can crash the game if you put it in essence transformer.
 
-Fix for mycon cap cutting liquids top sides.
+- Fix for Highwood Leaves not being opaque if you use fast graphics.
 
-- Client_Server_Crash_Fix
+- Fix for Frigid Leaves not being transparent.
 
-Fix for crashes related to server.
+- Fix for Flamewood leaves not decaying.
 
-- Client_Tools_Fix
+- Fix for Modloader not working propertly.
 
-Fix for tools efficiency for certain blocks.
+- Fix for Mycon Cap cutting liquids top sides.
+
+- Fix for Crashes related to server.
+
+- Fix for Tools efficiency for certain blocks.
 
 ## Server Fixes List
 
-- Server_Entity_Fix
+- Fix for Hoe not losing durability.
 
-Fix for mobs being transparent in the world.
+- Fix for Item Names being misleading.
 
-- Server_EssenceTransformer_Fix
+- Fix for Frigid Trunk inability to put it on top of eachother and it's hitbox.
 
-Fix for iron shovel that can crash the game if you put it in essence transformer.
+- Fix for Fence inability to put it on top of eachother and in suspended state.
 
-- Server_FrigidLeaves_Fix
+- Fix for Mobs being transparent in the world.
 
-Fix for Frigid Leaves not being transparent.
+- Fix for Iron Shovel that can crash the game if you put it in essence transformer.
 
-- Server_Leaves_Decay_Fix
+- Fix for Frigid Leaves not being transparent.
 
-Fix for flamewood leaves not decaying.
+- Fix for Flamewood leaves not decaying.
 
-- Server_Mycon_Liquid_Fix
+- Fix for Mycon Cap cutting liquids top sides.
 
-Fix for mycon cap cutting liquids top sides.
+- Fix for Low River Ores not droping items.
 
-- Server_Ore_Fix
+- Fix for certain blocks crashing the server.
 
-Fix for low river ores not droping items.
+- Fix for Furnaces and Freezers not working.
 
-- Server_SoundBlock_Fix
-
-Fix for certain blocks crashing the server.
-
-- Server_TileEntity_Fix
-
-Fix for furnaces and freezers not working.
-
-- Server_Tools_Fix
-
-Fix for tools efficiency for certain blocks.
+- Fix for Tools efficiency for certain blocks.
