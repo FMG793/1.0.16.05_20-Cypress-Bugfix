@@ -28,7 +28,7 @@ Cypress Quality of Life can be found in the "Releases".
 
 - Fix for Essence Cloner reseting Item durability.
 
-- fix for Essence (rifle) Projectiles that can corrupt the world save.
+- Fix for Essence (rifle) Projectiles that can corrupt the world save.
 
 - Fix for Iron Shovel that can crash the game if you put it in essence transformer.
 
