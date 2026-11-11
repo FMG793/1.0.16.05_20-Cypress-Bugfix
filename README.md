@@ -24,7 +24,7 @@ Cypress Quality of Life can be found in the "Releases".
 
 - Fix for mc_creat inability to save placeable items in the inventory.
 
-- Fix for Flamewood Log not haing the correct top and bottom texture.
+- Fix for Flamewood Log not having the correct top and bottom texture.
 
 - Fix for Essence Cloner reseting Item durability.
 
@@ -45,6 +45,10 @@ Cypress Quality of Life can be found in the "Releases".
 - Fix for Crashes related to server.
 
 - Fix for Tools efficiency for certain blocks.
+
+- Fix for Colored Glass not being craftable.
+
+- Fix for Low River Generator causing StackOverflowError.
 
 ## Server Fixes List
 
@@ -73,3 +77,5 @@ Cypress Quality of Life can be found in the "Releases".
 - Fix for Furnaces and Freezers not working.
 
 - Fix for Tools efficiency for certain blocks.
+
+- Fix for Low River Generator causing StackOverflowError.
